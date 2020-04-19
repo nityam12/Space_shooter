@@ -1,2 +1,4 @@
 # Space_shooter
-spaceshooter_game
+
+Space-shooter game using unreal engine
+
